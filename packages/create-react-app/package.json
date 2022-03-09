@@ -1,13 +1,15 @@
 {
-  "name": "create-react-app",
-  "version": "5.0.0",
+  "name": "@alife/raft-app",
+  "version": "5.0.0-raft.0",
   "keywords": [
-    "react"
+    "react",
+    "raft",
+    "raftjs"
   ],
-  "description": "Create React apps with no build configuration.",
+  "description": "Create Raft apps with no build configuration.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
+    "url": "https://github.com/raftjs/raft.git",
     "directory": "packages/create-react-app"
   },
   "license": "MIT",
@@ -15,7 +17,7 @@
     "node": ">=14"
   },
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+    "url": "https://github.com/raftjs/raft/issues"
   },
   "files": [
     "index.js",
